@@ -16,6 +16,23 @@ Objetivos Especificos
 
 2. MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/105255508/185528978-6239f780-0b48-427d-a1a4-ed6ce48229cb.png)
+
+![image](https://user-images.githubusercontent.com/105255508/185529023-9abc5dea-9d1f-489b-9228-5442e00efdef.png)
+
+![image](https://user-images.githubusercontent.com/105255508/185529062-56d8e96f-2b6e-4354-9e7a-faa766ee3c48.png)
+
+![image](https://user-images.githubusercontent.com/105255508/185529097-b7a0f575-2451-4569-a883-37bd445509c7.png)
+
+![image](https://user-images.githubusercontent.com/105255508/185529125-1f91341e-e7bf-4608-acca-d14074787841.png)
+
+![image](https://user-images.githubusercontent.com/105255508/185529171-5eb7ba76-a309-4071-bf55-2a724ca21564.png)
+
+![image](https://user-images.githubusercontent.com/105255508/185529215-df92033d-012d-42c7-9163-a25b8c4d4ab9.png)
+
+![image](https://user-images.githubusercontent.com/105255508/185529256-8c566f3c-060b-46e4-b42f-287534781608.png)
+
+![image](https://user-images.githubusercontent.com/105255508/185529291-cf7a03e1-58f8-41bb-a7a6-f24e5fe7a500.png)
 
 3. EXPLICACION Y RESOLUCION DE EJERICIOS O PROBLEMAS
 
@@ -235,9 +252,9 @@ Resolución
 
 12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
 
-Resolución 
+![image](https://user-images.githubusercontent.com/105255508/185528854-f9e5abee-529d-4613-9119-b89d0c7e50e7.png)
 
-![image](https://user-images.githubusercontent.com/105259381/185424807-23b09ec2-5012-4635-83a5-395b4242e091.png)
+Resolución 
 
 Para el circuito del literal a
 
