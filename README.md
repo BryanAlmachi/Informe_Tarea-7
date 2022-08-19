@@ -393,6 +393,8 @@ El devano primario esta abierto, por lo cual se debe reemplazar el transformador
 
 4. VIDEO
 
+https://youtu.be/i0cEYvj3_Dg
+
 5. CONCLUSIONES
 
 •	Por tanto, la inductancia es una medida de la capacidad de una bobina para establecer voltaje inducido como resultado de un cambio en su corriente, sin olvidar que el inductor se opone al cambio de su propia corriente.
