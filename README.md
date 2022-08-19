@@ -410,7 +410,7 @@ El devano primario esta abierto, por lo cual se debe reemplazar el transformador
 
 4. VIDEO
 
-https://youtu.be/i0cEYvj3_Dg
+https://youtu.be/i0cEYvj3_Dg 
 
 5. CONCLUSIONES
 
